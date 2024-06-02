@@ -1,3 +1,6 @@
+The app is a pet project where I am trying out a serverless stack, with AWS's DynamoDB, Cognito, API Gateway, and Lambda services, served in a React app that will be stored and served via an AWS bucket in the future.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
